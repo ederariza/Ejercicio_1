@@ -17,6 +17,6 @@ int main(){
     cin>> B;
     C = A % B;
     cout << "El residuo de la division " << A << "/" << B << " es "<< C << endl;
-    return 0;
 
+    return 0;
 }
