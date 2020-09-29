@@ -16,6 +16,7 @@ int main(){
     cout<< "Ingrese el numero B: ";
     cin>> B;
     C = A % B;
+
     cout << "El residuo de la division " << A << "/" << B << " es "<< C << endl;
 
     return 0;
