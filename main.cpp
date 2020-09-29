@@ -5,7 +5,6 @@ El residuo de la division 8/3 es: 2
  */
 
 #include <iostream>
-
 using namespace std;
 
 int main(){
